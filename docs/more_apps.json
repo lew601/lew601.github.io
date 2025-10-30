@@ -2,9 +2,9 @@
   {
     "name": "香港學神筆記",
     "subtitle": "香港的士筆試神器！提供超過 1500 道練習題，模擬考試及即時計分系統，助你輕鬆考取的士牌，適合初學者及進階考生！",
-    "iosAppId": "",
-    "androidPackage": "com.thethingstech.invoxeasy",
-    "iosUrlOverride": "https://apps.apple.com/app/id?ct=crosspromo_settings",
+    "iosAppId": "6754557463",
+    "androidPackage": "com.thethingstech.hktaxiquiz",
+    "iosUrlOverride": "https://apps.apple.com/app/id6754557463?ct=crosspromo_settings",
     "playUrlOverride": "https://play.google.com/store/apps/details?id=com.thethingstech.hktaxiquiz&referrer=utm_source%3Dsettings%26utm_medium%3Dcrosspromo%26utm_campaign%3Dmore_apps"
   },
   {
