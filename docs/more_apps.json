@@ -2,10 +2,8 @@
     {
     "name": "Telegram 六合彩研討會",
     "subtitle": "研究討論六合彩吹水區",
-    "iosAppId": "https://t.me/winmark62gather",
-    "androidPackage": "https://t.me/winmark62gather",   
-    "iosUrlOverride": "https://t.me/winmark62gather",
-    "playUrlOverride": "https://t.me/winmark62gather"
+    "deepLink": "tg://join/?invite=winmark62gather",
+    "fallbackUrl": "https://t.me/winmark62gather"
   },
   {
     "name": "香港學神筆記",
