@@ -7,7 +7,7 @@
     "playUrlOverride": "https://t.me/+sTs8dJ7Ktb4xZjRl"
   },
   {
-    "name": "香港學神筆記",
+    "name": "香港學神筆記 - 的士筆試",
     "subtitle": "香港的士筆試神器！提供超過 1500 道練習題，模擬考試及即時計分系統，助你輕鬆考取的士牌，適合初學者及進階考生！",
     "iosAppId": "6754557463",
     "androidPackage": "com.thethingstech.hktaxiquiz",
@@ -15,24 +15,24 @@
     "playUrlOverride": "https://play.google.com/store/apps/details?id=com.thethingstech.hktaxiquiz&referrer=utm_source%3Dsettings%26utm_medium%3Dcrosspromo%26utm_campaign%3Dmore_apps"
   },
   {
-    "name": "InvoxEasy 開單易",
-    "subtitle": "快速開立發票與收據",
+    "name": "InvoiceEasy 開單易",
+    "subtitle": "快速開立發票與收據，「幾秒內」完成發票、送貨單、收據並產生乾淨專業的 PDF，立即分享給客戶。",
     "iosAppId": "6751634980",
     "androidPackage": "com.thethingstech.invoxeasy",
     "iosUrlOverride": "https://apps.apple.com/app/id6751634980?ct=crosspromo_settings",
     "playUrlOverride": "https://play.google.com/store/apps/details?id=com.thethingstech.invoxeasy&referrer=utm_source%3Dsettings%26utm_medium%3Dcrosspromo%26utm_campaign%3Dmore_apps"
   },
   {
-    "name": "支票易 ChequeEasy Exchange",
-    "subtitle": "快速換算 · 匯率工具",
+    "name": "ChequeSuite 支票易",
+    "subtitle": "讓你快速填寫支票、保存記錄，還能即時查詢及換算匯率及卡片製作。",
     "iosAppId": "6746353372",
     "androidPackage": "com.thethings.chequeeasy",
     "iosUrlOverride": "https://apps.apple.com/app/id6746353372?ct=crosspromo_settings",
     "playUrlOverride": "https://play.google.com/store/apps/details?id=com.thethings.chequeeasy&referrer=utm_source%3Dsettings%26utm_medium%3Dcrosspromo%26utm_campaign%3Dmore_apps"
   },
   {
-    "name": "AiMark6 - 六合彩Ai選號",
-    "subtitle": "香港攪珠資訊工具",
+    "name": "AiMark6 - 六合彩Ai選號 - 香港攪珠資訊工具",
+    "subtitle": "提供香港彩票過去100期攪珠記錄，內建冷熱號分析、趨勢統計功能，助您快速查閱開獎結果與日期。",
     "iosAppId": "6747115591",
     "androidPackage": "com.loulouwong.mark6ai",
     "iosUrlOverride": "https://apps.apple.com/app/id6747115591?ct=crosspromo_settings",
@@ -40,7 +40,7 @@
   },
   {
     "name": "TriEasy Photo Editor",
-    "subtitle": "AI 去背與拼貼",
+    "subtitle": "AI 去背與拼貼，「一開即用」的輕巧修圖與 AI 去背工具。",
     "iosAppId": "6747077957",
     "androidPackage": "com.thethings.sowhatphoto",
     "iosUrlOverride": "https://apps.apple.com/app/id6747077957?ct=crosspromo_settings",
