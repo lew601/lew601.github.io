@@ -1,4 +1,12 @@
 [
+    {
+    "name": "點稱呼 - 親戚稱謂計算器",
+    "subtitle": "廣東話親戚稱謂計算器",
+    "iosAppId": "6758949032",
+    "androidPackage": "com.thethingstech.relationshiphk",
+    "iosUrlOverride": "https://apps.apple.com/app/id6758949032?ct=crosspromo_settings",
+    "playUrlOverride": "https://play.google.com/store/apps/details?id=com.thethingstech.relationshiphk&referrer=utm_source%3Dsettings%26utm_medium%3Dcrosspromo%26utm_campaign%3Dmore_apps"
+  },
   {
     "name": "綠色思念花園 -Green Memorial Garden",
     "subtitle": "綠色悼念、思念訊息、日曆提醒",
