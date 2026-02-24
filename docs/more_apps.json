@@ -1,6 +1,14 @@
 [
-    {
-    "name": "點稱呼 - 親戚稱謂計算器",
+   {
+    "name": "點稱呼Plus - 親戚稱謂計算器",
+    "subtitle": "廣東話親戚稱謂計算器＋恭賀金句",
+    "iosAppId": "6759523201",
+    "androidPackage": "com.thethingstech.relationshkplus",
+    "iosUrlOverride": "https://apps.apple.com/app/id6759523201?ct=crosspromo_settings",
+    "playUrlOverride": "https://play.google.com/store/apps/details?id=com.thethingstech.relationshkplus&referrer=utm_source%3Dsettings%26utm_medium%3Dcrosspromo%26utm_campaign%3Dmore_apps"
+  },
+  {
+    "name": "點稱呼Lite - 親戚稱謂計算器",
     "subtitle": "廣東話親戚稱謂計算器",
     "iosAppId": "6758949032",
     "androidPackage": "com.thethingstech.relationshiphk",
