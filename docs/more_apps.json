@@ -2,9 +2,9 @@
       {
     "name": "明鏡止水 - 命理風水 相學分析",
     "subtitle": "以廣東話互動方式提供命理與相學分析",
-    "iosAppId": "https://mirrorstillwater.com/app",
+    "webLabel": "https://mirrorstillwater.com/app",
     "androidPackage": "com.thethingstech.cmsw",
-    "iosUrlOverride": "https://mirrorstillwater.com/app",
+    "webUrl": "https://mirrorstillwater.com/app",
     "playUrlOverride": "https://play.google.com/store/apps/details?id=com.thethingstech.cmsw&referrer=utm_source%3Dsettings%26utm_medium%3Dcrosspromo%26utm_campaign%3Dmore_apps"
   },
    {
